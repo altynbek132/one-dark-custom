@@ -3,6 +3,9 @@
   "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {
+    "property:dart": {
+      "foreground": "#6bcfc2"
+    },
     "enumMember": {
       "foreground": "#56b6c2"
     },
@@ -29,6 +32,12 @@
     }
   },
   "tokenColors": [
+    {
+      "scope": "variable.other.property",
+      "settings": {
+        "foreground": "#6bcfc2"
+      }
+    },
     {
       "scope": "meta.embedded",
       "settings": {
