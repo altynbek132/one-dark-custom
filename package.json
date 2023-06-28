@@ -1,6 +1,11 @@
 {
   "name": "one-dark-custom",
   "displayName": "one dark custom",
+  "publisher": "altynbek132",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/altynbek132/one-dark-custom.git"
+  },
   "description": "",
   "version": "0.0.1",
   "engines": {
